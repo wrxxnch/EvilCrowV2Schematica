@@ -2,6 +2,9 @@
 
 Este projeto utiliza **ESP32 + CC1101** para montar o **Evil Crow RF** (ECRF + Jammer).  
 Abaixo estão os materiais necessários e o esquema de ligações.
+<img width="568" height="978" alt="image" src="https://github.com/user-attachments/assets/e9eccd09-062d-40bd-92de-7c9a4a28f0d7" />
+[Demo Video](https://www.youtube.com/watch?v=oAPZG4rk3v0)
+
 
 ---
 
